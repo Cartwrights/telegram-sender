@@ -1,6 +1,6 @@
 # 电报群发助手
 
-> 本人工作之余基于开源telethon开发的电报群发助手，需要下载请到release[下载地址](https://github.com/Cartwrights/telegram-sender/releases/download/tg/tg-sender.zip)
+> 本人工作之余基于开源telethon开发的电报群发助手，需要下载请到release[下载地址](https://github.com/Cartwrights/telegram-sender/releases/download/tg/telegram-sender.zip)
 
 
 目前实现的主要功能如下
